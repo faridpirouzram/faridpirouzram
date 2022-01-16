@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @faridpirouzram
+- 👀 I’m interested in learning and experimenting
+- 🌱 I’m currently learning python and linux
+- 💞️ I’m always ready to cooperate
+- 📫 f.pirouzram@gmail.com
